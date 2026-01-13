@@ -11,4 +11,5 @@ root.render(
 );
 
 // تفعيل PWA
+
 serviceWorkerRegistration.register();
