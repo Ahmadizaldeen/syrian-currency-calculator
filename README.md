@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# حاسبة الليرة السورية / Syrian Currency Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 وصف المشروع / Project Description
 
-## Available Scripts
+**العربية:**  
+هذا المشروع هو **حاسبة الليرة السورية** التي تساعد المستخدمين على حساب قيمة الأوراق النقدية القديمة والجديدة معًا، وإظهار المجموع الكلي بالعملتين.  
+يعمل التطبيق **بدون إنترنت** ويمكن تثبيته على الهواتف مثل أي تطبيق عادي.
 
-In the project directory, you can run:
+**English:**  
+This project is the **Syrian Currency Calculator** that helps users calculate the total value of old and new Syrian banknotes together, displaying the total in both currencies.  
+The app works **offline** and can be installed on mobile devices like a regular app.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💡 مميزات التطبيق / Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- يدعم كل فئات الليرة السورية القديمة والجديدة.  
+- الحساب **فوري لكل فئة والمجموع الكلي** يظهر دائمًا في الأعلى.  
+- يعمل **بدون إنترنت** (Offline).  
+- يمكن **تثبيته على الشاشة الرئيسية** مثل أي تطبيق.  
+- تصميم **بسيط وسهل الاستخدام**.
 
-### `npm test`
+**English:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Supports all denominations of old and new Syrian Pounds.  
+- Instant calculation for each denomination and total displayed at the top.  
+- Works **offline**.  
+- Can be **installed on the home screen** like a regular app.  
+- Simple and user-friendly design.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ طريقة التثبيت على الهواتف / How to Install on Mobile
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **للأندرويد / Android (Chrome, Edge, Firefox)**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. افتح المتصفح واذهب إلى رابط التطبيق:  
+   `https://USERNAME.github.io/syrian-currency-calculator`  
+2. بعد تحميل الصفحة، ستظهر رسالة "Add to Home screen" أو اضغط على الثلاث نقاط (⋮) → اختر **Add to Home screen / إضافة إلى الشاشة الرئيسية**.  
+3. اختر الاسم واضغط **Add / إضافة**.  
+4. سيظهر التطبيق على الشاشة الرئيسية ويعمل Offline.
 
-### `npm run eject`
+### **للآيفون / iPhone (Safari)**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. افتح Safari واذهب إلى رابط التطبيق.  
+2. اضغط على أيقونة **المشاركة** (المربع مع سهم لأعلى).  
+3. اختر **Add to Home Screen / إضافة إلى الشاشة الرئيسية**.  
+4. اختر الاسم واضغط **Add / إضافة**.  
+5. ستظهر أيقونة التطبيق على الشاشة الرئيسية ويعمل Offline.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ تشغيل المشروع محليًا / Running Locally
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. استنسخ المستودع / Clone the repository:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/USERNAME/syrian-currency-calculator.git
+cd syrian-currency-calculator
