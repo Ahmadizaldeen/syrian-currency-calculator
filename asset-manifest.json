@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syrian-currency-calculator/static/css/main.8feb0400.css",
+    "main.js": "/syrian-currency-calculator/static/js/main.bed319d3.js",
+    "index.html": "/syrian-currency-calculator/index.html",
+    "main.8feb0400.css.map": "/syrian-currency-calculator/static/css/main.8feb0400.css.map",
+    "main.bed319d3.js.map": "/syrian-currency-calculator/static/js/main.bed319d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8feb0400.css",
+    "static/js/main.bed319d3.js"
+  ]
+}
